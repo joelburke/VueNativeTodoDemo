@@ -1,6 +1,10 @@
+# Purpose
+
+Following Sa Nitawaki's Medium Post: ["Let's Todo App with vue Native"](https://medium.com/@sa.nitawaki/lets-todo-app-with-vue-native-part1-af2494ae568b).
+
 # Setup
 
-Follow vue-native installation docs. https://vue-native.io/docs/installation.html
+Follow [vue-native installation docs](. )https://vue-native.io/docs/installation.html).
 
 ## Windows System Requirements
 
@@ -10,7 +14,7 @@ Follow vue-native installation docs. https://vue-native.io/docs/installation.htm
 
 ## Android System Requirements
 
-- Install Expo from the Google Play Store. https://play.google.com/store/apps/details?id=host.exp.exponent
+- Install [Expo]( https://play.google.com/store/apps/details?id=host.exp.exponent) from the Google Play Store.
 
 ## Local Windows Development Setup
 
@@ -23,4 +27,5 @@ Follow vue-native installation docs. https://vue-native.io/docs/installation.htm
  - Click on `Projects` on the bottom right
  - Click on `Scan QR Code` under tools along the top
  - Scan the QR code in expo from `http://localhost:19002/` with your phone to launch your app on your phone
+
 
