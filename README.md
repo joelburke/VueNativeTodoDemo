@@ -1,10 +1,11 @@
 # Purpose
 
-Following Sa Nitawaki's Medium Post: ["Let's Todo App with vue Native"](https://medium.com/@sa.nitawaki/lets-todo-app-with-vue-native-part1-af2494ae568b).
+ * Trying out [Vue Native](https://vue-native.io) for the first time!
+ * Following Sa Nitawaki's Medium Post: ["Let's Todo App with vue Native"](https://medium.com/@sa.nitawaki/lets-todo-app-with-vue-native-part1-af2494ae568b).
 
 # Setup
 
-Follow [vue-native installation docs](. )https://vue-native.io/docs/installation.html).
+Follow [vue-native installation docs](https://vue-native.io/docs/installation.html).
 
 ## Windows System Requirements
 
